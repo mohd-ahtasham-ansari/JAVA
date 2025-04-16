@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Pattern printing.iml" filepath="$PROJECT_DIR$/.idea/Pattern printing.iml" />
       <module fileurl="file://$PROJECT_DIR$/loops/loops.iml" filepath="$PROJECT_DIR$/loops/loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/patterns/patterns.iml" filepath="$PROJECT_DIR$/loops/patterns/patterns.iml" />
     </modules>
   </component>
 </project>

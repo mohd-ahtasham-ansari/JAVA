@@ -1,2 +1,2 @@
-public class a {
+public class a{
 }
